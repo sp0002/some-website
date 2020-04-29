@@ -1,0 +1,15 @@
+body {
+  background-color: #d7fffd;
+}
+
+p {
+  font-size: 24px;
+}
+
+#first-item {
+  color: blue;
+}
+
+.last-three {
+  color: red;
+}
